@@ -1,0 +1,9 @@
+Package: gs.stallin.jason.battlecamppractice
+Name: Battle Camp Practice
+Depends: mobilesubstrate
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: After a battle, you can practice without the battle ending. Disable the hack in settings!
+Maintainer: Jason Stallings
+Author: Jason Stallings
+Section: Tweaks
